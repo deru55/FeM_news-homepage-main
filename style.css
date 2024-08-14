@@ -104,7 +104,6 @@ body {
 .wrapper {
   --padding: 1rem;
 
-  max-width: 48rem;
   padding: var(--padding);
 }
 
